@@ -72,3 +72,26 @@ section p {
       padding-left: 10px;
       line-height: 2.0;
   }
+
+section img {
+  padding-left: 10px;
+
+}
+
+.container {
+  position: relative;
+  color: white;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 1000px;
+  font-size: 24px;
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+}
